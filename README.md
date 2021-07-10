@@ -6,6 +6,6 @@ Create the Decision Tree classifier and visualize it graphically.
 
 Dataset link : https://bit.ly/3kXTdox
 
-Youtube Video : : 
+Youtube Video : https://www.youtube.com/watch?v=2Nnpe6X98zU
 
 LinkedIn Post : 
